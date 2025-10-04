@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 200.0,
+        "category": "food",
+        "note": "nothing",
+        "date": "2025-10-04"
+    },
+    {
+        "amount": 200.0,
+        "category": "food",
+        "note": "nothing",
+        "date": "2025-10-04"
+    },
+    {
+        "amount": 200.0,
+        "category": "food",
+        "note": "nothing",
+        "date": "2025-10-04"
+    },
+    {
+        "amount": 200.0,
+        "category": "food",
+        "note": "nothing",
+        "date": "2025-10-04"
+    },
+    {
+        "amount": 8000.0,
+        "category": "food",
+        "note": "na",
+        "date": "2025-10-04"
+    }
+]
