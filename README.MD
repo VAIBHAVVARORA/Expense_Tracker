@@ -64,16 +64,26 @@ https://trackyourexpensess.streamlit.app/
 # Documentation
 
 Every step, from setup to deployment, was documented during development:
-Installed Python + Streamlit
-Built a CLI version first
-Upgraded to Streamlit UI
-Debugged CSV handling and visualization
-Deployed on Streamlit Cloud
+
+Installed Python + Streamlit.
+
+Built a CLI version first.
+
+Upgraded to Streamlit UI.
+
+Debugged CSV handling and visualization.
+
+Deployed on Streamlit Cloud.
+
 All progress was committed and documented in this repo.
+
 
 # Learnings
 
-Basics of Streamlit web apps
-Using Pandas for simple data analysis
-Structuring and deploying a small AI project
-Documenting each step clearly for review
+Basics of Streamlit web apps.
+
+Using Pandas for simple data analysis.
+
+Structuring and deploying a small AI project.
+
+Documenting each step clearly for review.
